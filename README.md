@@ -8,7 +8,7 @@ In large scale environments, scale drift is a crucial problem of monocular visua
 will be available soon
 
 *****************************************************************************************
-#### Recorded video for sequence 00, 02-10. The trajectory of ground truth, standard ORB-SLAM and SEPRS are shown in red, black, and blue respectively. The black sparse points are the reconstructed 3D points. The detected feature points on the ground region are shown as red square in the image.
+#### Recorded video for sequence 00, 02-10. The trajectory of ground truth, ORB-SLAM without loop closure and GCSEMK are shown in red, black, and blue respectively. The black sparse points are the reconstructed 3D points. The detected feature points on the ground region are shown as red square in the image.
 ##### Recorded video for sequence 00
 will be available soon
 ##### Recorded video for sequence 02
@@ -28,5 +28,12 @@ will be available soon
 ##### Recorded video for sequence 09
 will be available soon
 ##### Recorded video for sequence 10
+will be available soon
+
+*****************************************************************************************
+#### The estimated camere trajectories using SEMK for sequence 00 and 02-10 in the KITTI benchmark
+will be available soon
+
+#### The translation and rotation errors over different distance segment
 will be available soon
 
