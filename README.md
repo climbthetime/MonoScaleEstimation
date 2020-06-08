@@ -5,7 +5,7 @@ In large scale environments, scale drift is a crucial problem of monocular visua
 
 *****************************************************************************************
 #### Example of ATE results obtained using SEMK and GCSEMK for the sequences 00, 02-10.
-![](https://photos.app.goo.gl/8Hr3BinLwLxAueWY9)
+![](https://lh3.googleusercontent.com/n5Ut3JwguSRFr7uCYuEJqw0wYJfzQPj8mSiginAxSnTXkjCOJ-CwRxn5M7CWVrlS-gp7VfPxlYVtJqCNgWFrnk7XFDV8AIebuXGHr7AXQwGW15VIQlVRPAJ4yrMjsrCRArvp2bk0UNmVal7_ycm7Qy2GMk6KUG9NeR9WOqcsQVUYFrJTIT2nAo2e1h6e_9phJ3XHuBMoK8zNNFSta31jHfsb7meVkDNvlNg1OhV-3fNnp-WAfYCCOdtzrvE6MzvA_MUWoYofPJjKgSAg0e7E-Yu2d1rz_xJ8k1mEoiBqE8pfm5dxgob0Syg6zGdZsRhK9QLutAd9wM8S5AvJNwtkq7lC1CpVtS1ApVQuF5eij04MQMu1QlbEn1WjFaRvrwqIrzMFHlfzYV1STYAX_Y7tqs_xJ9CBwyR52nnEu3p0XeXjw1DAMQd7zXYfwJigtMKKdxumBUzYSywdMC1Oxwor0mut6AgK2M0R3DZEkUnfcDA-wEi2ra_VbGzNs8osSpZ7UrChv2tBBc79IaSmu3rb9HPHZ5QuwVeoW2zPzAbvS6DfY1rf1nQ5jwYDWqOgghqU3-0v7E0TqS2Fg2GcjVFwcxkc3zDTdWL3_yKuJ9EPM4cynqvnWf2GrFTD6lWsrPG9Ew10zl-evd4X5JHV6UHmxL2jl5qzB86-QkakCmuTiM3SjFiXz8DZkLsTRZ3t=w694-h999-no?authuser=0)
 
 *****************************************************************************************
 #### Recorded video for sequence 00, 02-10. The trajectory of ground truth, ORB-SLAM without loop closure and GCSEMK are shown in red, black, and blue respectively. The black sparse points are the reconstructed 3D points. The detected feature points on the ground region are shown as red square in the image.
