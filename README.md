@@ -10,7 +10,7 @@ In large scale environments, scale drift is a crucial problem of monocular visua
 *****************************************************************************************
 #### Recorded video for sequence 00, 02-10. The trajectory of ground truth, ORB-SLAM without loop closure and GCSEMK are shown in red, black, and blue respectively. The black sparse points are the reconstructed 3D points. The detected feature points on the ground region are shown as red square in the image.
 ##### Recorded video for sequence 00
-will be available soon
+{% include 00.html%}
 ##### Recorded video for sequence 02
 {% include 02.html%}
 ##### Recorded video for sequence 03
