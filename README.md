@@ -12,7 +12,7 @@ In large scale environments, scale drift is a crucial problem of monocular visua
 ##### Recorded video for sequence 00
 will be available soon
 ##### Recorded video for sequence 02
-will be available soon
+{% include 02.html%}
 ##### Recorded video for sequence 03
 will be available soon
 ##### Recorded video for sequence 04
